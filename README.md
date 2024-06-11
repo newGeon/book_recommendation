@@ -1,6 +1,7 @@
 # Book Recommendation
-키워드 추출을 이용한 개방형 연결 데이터 기반 도서 추천 방법
-A Linked Open Data based Book Recommendation method using Keyword Extraction
+### 논문
+- 한글 : 키워드 추출을 이용한 개방형 연결 데이터 기반 도서 추천 방법
+- 영어 : A Linked Open Data based Book Recommendation method using Keyword Extraction
 
 ### 연구 방법
 - 데이터 수집
